@@ -9,6 +9,6 @@ entries:
     name: heartmedi-deploy
     type: application
     urls:
-    - https://hyounggeun01.github.ip/helm-charts/heartmedi-deploy-0.0.1.tgz
+    - https://hyounggeun01.github.io/helm-charts/heartmedi-deploy-0.0.1.tgz
     version: 0.0.1
 generated: "2025-01-13T07:26:37.633546712Z"
