@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  heartmedi-deploy:
+  - apiVersion: v2
+    appVersion: v0.10.2
+    created: "2025-01-13T07:26:37.633995366Z"
+    description: A Helm chart for Kubernetes
+    digest: 3bebce0469ab036835c32786f9886607bfc33ec4e14bd295245e4aff530840ca
+    name: heartmedi-deploy
+    type: application
+    urls:
+    - https://hyounggeun01.github.ip/helm-charts/heartmedi-deploy-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-01-13T07:26:37.633546712Z"
